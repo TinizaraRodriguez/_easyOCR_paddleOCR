@@ -1,0 +1,1 @@
+# _easyOCR_paddleOCR
